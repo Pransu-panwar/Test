@@ -1,0 +1,11 @@
+1.find the closest element to a given element in a list:	min(my_list, key=lambda x:abs(x-my_number))
+
+
+2
+5 1 4
+3 2 1 4
+5 5 4
+4 5 2 3
+
+4
+4
